@@ -24,16 +24,20 @@ bastion host.
 <img width="1919" height="806" alt="1-rds-database-available png" src="https://github.com/user-attachments/assets/638be154-935e-4052-b05d-fed4a5377d05" />
 
 ### 2. Security Group Locked to Bastion
-![Security Group](2-security-group-inbound-rule.png)
+<img width="1908" height="870" alt="2-security-group-inbound-rule png" src="https://github.com/user-attachments/assets/281c3dc6-f2de-4958-9f01-c86f72d978ae" />
+
 
 ### 3. Successful SSH Tunnel Connection
-![SSH Tunnel Success](3-ssh-tunnel-successful-connection.png)
+<img width="982" height="606" alt="3-ssh-tunnel-successful-connection png" src="https://github.com/user-attachments/assets/031d1c5f-39df-4c93-b231-12f02ba5da83" />
+
 
 ### 4. Table Creation and Data Insertion
-![Create Table and Insert](4-create-table-insert-success.png)
+<img width="1920" height="1080" alt="4-create-table-insert-success png" src="https://github.com/user-attachments/assets/c6c63270-a17b-4219-9459-2c8becf8aeea" />
+
 
 ### 5. Verified Data via SELECT Query
-![Select Query Result](5-select-query-result.png)
+<img width="1920" height="1080" alt="5-select-query-result png" src="https://github.com/user-attachments/assets/f08fde58-94b9-4915-8033-82e8ada6b85b" />
+
 
 ## Tools Used
 - AWS RDS (MySQL)
