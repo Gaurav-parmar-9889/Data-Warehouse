@@ -21,7 +21,7 @@ bastion host.
 ## Screenshots
 
 ### 1. RDS Database Available
-![RDS Available](1-rds-database-available.png)
+<img width="1919" height="806" alt="1-rds-database-available png" src="https://github.com/user-attachments/assets/638be154-935e-4052-b05d-fed4a5377d05" />
 
 ### 2. Security Group Locked to Bastion
 ![Security Group](2-security-group-inbound-rule.png)
