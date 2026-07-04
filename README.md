@@ -33,8 +33,7 @@ https://github.com/user-attachments/assets/031d1c5f-39df-4c93-b231-12f02ba5da83
 https://github.com/user-attachments/assets/c6c63270-a17b-4219-9459-2c8becf8aeea
 
 ### 5. Verified Data via SELECT Query
-https://github.com/user-attachments/assets/f08fde58-94b9-4915-8033-82e8ada6b85b
-
+https://github.com/user-attachments/assets/cfc92e42-bd15-4010-b42f-56f82adee452
 
 ## Tools Used
 - AWS RDS (MySQL)
