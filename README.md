@@ -32,7 +32,7 @@ bastion host.
 
 
 ### 4. Table Creation and Data Insertion
-<img width="1920" height="1080" alt="4-create-table-insert-success png" src="https://github.com/user-attachments/assets/c6c63270-a17b-4219-9459-2c8becf8aeea" />
+![4-create-table-insert-success](https://github.com/user-attachments/assets/c6c63270-a17b-4219-9459-2c8becf8aeea)
 
 
 ### 5. Verified Data via SELECT Query
